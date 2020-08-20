@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/IrsalHa/irsalha/master/github-bg.png" >
+<img src="https://raw.githubusercontent.com/IrsalHa/irsalha/master/github-bg.png" style="width:100%;">
 <!--
 **IrsalHa/irsalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
