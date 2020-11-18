@@ -1,5 +1,4 @@
 ### Hi i'm Irsal
-![Irsal's github stats](https://github-readme-stats.vercel.app/api?username=irsalha)
 <img src="https://raw.githubusercontent.com/IrsalHa/irsalha/master/github-bg_waifu2x_photo_scale_tta_1.png" >
 <!--
 **IrsalHa/irsalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
