@@ -7,4 +7,5 @@
 - I'm currently closed for the BLS/DA/PA, bcz google update.
 <hr>
 - Im not releasing the source code but you can use it, here http://3.1.194.229/ or you can use my API for your own website
+*my old vps is got terminated :( so i get new ip
 <hr>
