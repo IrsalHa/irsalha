@@ -7,9 +7,11 @@
 - I'm currently closed for the BLS/DA/PA, bcz google update.
 <hr>
 <h3>Social Media</h3>
-Twitter: <a href="https://twitter.com/irsalha">@irsalha</a>
+Twitter: <a href="https://twitter.com/irsalha">Irsal Hakim Alamsyah<</a>
 </br>
-Linkedin: <a href="https://id.linkedin.com/in/irsalha">@irsalha</a>
+Linkedin: <a href="https://id.linkedin.com/in/irsalha">Irsal Hakim Alamsyah</a>
+</br>
+Facebook: <a href="https://www.facebook.com/irsalha">Irsal Hakim Alamsyah</a>
 </br>
 Personal Website: <a href="https://www.irsalhakimalamsyah.com/">Irsal Hakim Alamsyah</a>
 <hr>
