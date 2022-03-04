@@ -13,5 +13,4 @@ Linkedin: <a href="https://id.linkedin.com/in/irsalha">Irsal Hakim Alamsyah</a>
 </br>
 Facebook: <a href="https://www.facebook.com/irsalha">Irsal Hakim Alamsyah</a>
 </br>
-Personal Website: <a href="https://www.irsalhakimalamsyah.com/">Irsal Hakim Alamsyah</a>
 <hr>
